@@ -4,10 +4,8 @@ Django REST + React application for ingesting SAP, utility, and corporate travel
 
 ## Live demo
 
-Deploy to Render using `render.yaml`, then set:
-- `ALLOWED_HOSTS` = your Render hostname
-- `CSRF_TRUSTED_ORIGINS` = `https://your-app.onrender.com`
-- `CORS_ALLOWED_ORIGINS` = same (only if running frontend separately)
+backend deployed URL: [https://breathe-esg-assignment-final.onrender.com](https://breathe-esg-assignment-final.onrender.com)
+frontend deployed URL: [https://breathe-esg-assignment-vryk.vercel.app/](https://breathe-esg-assignment-vryk.vercel.app/)
 
 **Demo credentials (after `seed_demo`):**
 - Analyst: `analyst@demo.client.com` / `demo1234`
