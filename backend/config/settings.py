@@ -131,7 +131,7 @@ REST_FRAMEWORK = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "https://breathe-esg-assignment-rho.vercel.app",
+    "https://breathe-esg-assignment-vryk.vercel.app/",
     "http://localhost:5173",
     "http://127.0.0.1:5173",
 ]
@@ -139,7 +139,7 @@ CORS_ALLOWED_ORIGINS = [
 CORS_ALLOW_CREDENTIALS = True
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://breathe-esg-assignment-rho.vercel.app",
+    "https://breathe-esg-assignment-vryk.vercel.app/",
     "http://localhost:5173",
     "http://127.0.0.1:5173",
 ]
