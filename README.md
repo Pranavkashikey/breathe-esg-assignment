@@ -5,7 +5,7 @@ Django REST + React application for ingesting SAP, utility, and corporate travel
 ## Live demo
 
 backend deployed URL: [https://breathe-esg-assignment-final.onrender.com](https://breathe-esg-assignment-final.onrender.com)
-frontend deployed URL: [https://breathe-esg-assignment-vryk.vercel.app/](https://breathe-esg-assignment-vryk.vercel.app/)
+frontend deployed URL: [https://breathe-esg-assignment-vryk.vercel.app/login](https://breathe-esg-assignment-vryk.vercel.app/)
 
 **Demo credentials (after `seed_demo`):**
 - Analyst: `analyst@demo.client.com` / `demo1234`
